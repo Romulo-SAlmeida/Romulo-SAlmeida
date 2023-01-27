@@ -4,7 +4,7 @@
             
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romulo-SAlmeida&show_icons=true&theme=radical)
+![Romulo-SAlmeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romulo-SAlmeida&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-SAlmeida&layout=compact)](https://github.com/Romulo-SAlmeida/github-readme-stats)
 
