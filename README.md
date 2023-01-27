@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá! Eu sou o Rômulo😊
 
-<!--
-**Romulo-SAlmeida/Romulo-SAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romulo-souza-almeida-00b69a252?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bp5A%2Bwf2kTFSD3cRaXa3ayg%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)             
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romulo-SAlmeida&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo-SAlmeida&layout=compact)](https://github.com/Romulo-SAlmeida/github-readme-stats)
+
+Student of Systems Analysis and Development and passionate about technology
+
+### tecnologias que utilizo:
+ <div style= "display: inline_block"><br/>
+  <img align="center"  alt="Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img align="center"  alt="Python"  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  </div>
+  
+ ### Um iniciante com muita curiosidade
