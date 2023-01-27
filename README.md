@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rômulo😊
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romulo-souza-almeida-00b69a252?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bp5A%2Bwf2kTFSD3cRaXa3ayg%3D%3D)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)             
+            
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Romulo-SAlmeida&show_icons=true&theme=radical)
